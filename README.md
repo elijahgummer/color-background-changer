@@ -9,6 +9,10 @@ Color Display: The selected color is displayed, allowing you to see and apprecia
 
 Text Color Change: Watch the text color of a paragraph dynamically adapt to the background color.
 
+<img width="960" alt="Screenshot 2023-11-10 153429" src="https://github.com/elijahwgummer-poc/color-background-changer/assets/96103526/a8e4be19-9ead-484e-a568-08464a388c10">
+<img width="960" alt="Screenshot 2023-11-10 153418" src="https://github.com/elijahwgummer-poc/color-background-changer/assets/96103526/09790c93-7baa-4bef-bcf8-7318b6b8d83b">
+
+
 Technologies Used 💻
 HTML
 CSS
